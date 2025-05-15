@@ -18,3 +18,8 @@ body{
     align-items: center;
     font-size: 4rem;
 }
+.box{
+    width: 100px;
+    height:100px;
+    background-color: red;
+}
